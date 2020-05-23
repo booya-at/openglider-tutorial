@@ -28,3 +28,17 @@ Conda is the package-manager which support all the tools we currently use. Insta
 
 ## Modify the arc
 ![modify-arc](gifs/modify-arc.gif)
+
+## Modify angle of attack
+![modify-aoa](gifs/modify-angle-of-attack.gif)
+
+## Modify airfoil
+![modify airfoil](gifs/modify-airfoil.gif)
+
+## Modify lines
+![modify lines](gifs/modify-lines.gif)
+![modify lines 1](gifs/modify-lines-1.gif)
+![modify lines 2](gifs/modify-lines-2.gif)
+
+## Inspect line forces and geometry
+![inspect line forces](gifs/inspect-line-forces.gif)
