@@ -51,3 +51,9 @@ This command adds the functionality to:
 
 ## Inspect line forces and geometry
 ![inspect line forces](gifs/inspect-line-forces.gif)
+
+## Create cuts (design-tool)
+![design-tool](gifs/modify-design.gif)
+
+## Modify colors
+![modify colors](gifs/modify-colors.gif)
