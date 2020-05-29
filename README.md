@@ -13,8 +13,6 @@ The connection between a `ParametricGlider` and a `Glider` is given by the funct
 The visual implementation of openglider in FreeCAD is done by using the mesh-functionalities available from openglider. The base-feature available in the glider-workbench is a `GliderFeature` which contains both a `ParametricGlider` and a `Glider`. There is a toolbox available to modify the parametric glider. These functions are all applied on the `GliderFeature` and therefore are not parametric (if you modify the glider it's not directly revertable -> still TODO).
 On the other hand there is a toolbox available which adds functions to set parametric modifiers on top of the `GliderFeature`. These features allow to modify the `Glider`-object directly by copiing the `Glider` and modifiing some properties of the copy.
 
-[next page]()
-
 
 ## Installation
 
