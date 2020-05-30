@@ -1,7 +1,3 @@
-# glider tutorial with freecad
-
-A simple tutorial on how to use openglider with freecad-gui.
-
 ## Openglider design-principles:
 
 On the highest level openglider provides two classes which represent abstractions of a paraglider-model. The `ParametricGlider` is a parametric representation of a glider. Most propoerties of this object are defined by parametric geometries like nurbs and bezier-splines.
